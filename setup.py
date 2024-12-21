@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="kiss-ai-stack-types",
-    version="0.1.0-alpha3",
+    version="0.1.0-alpha4",
     description="KISS AI Stack's common object types",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
